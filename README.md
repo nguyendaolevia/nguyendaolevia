@@ -24,6 +24,29 @@
 
 ---
 
+### 🚀 Featured Work
+
+<table>
+  <tr>
+    <td>
+      <h3>💧 <a href="https://github.com/Vanderis-Team/ThirstBar">Vanderis-Team / ThirstBar</a></h3>
+      <p><em>High-performance survival thirst & hydration engine for Minecraft Paper/Spigot servers.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Platform-Paper_%7C_Spigot-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Production_Ready-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li><strong>Architecture & Performance:</strong> Dynamic BossBar/ActionBar HUD rendering with tick-accurate scheduling and zero memory leaks.</li>
+        <li><strong>Gameplay Mechanics:</strong> Multi-stage dehydration penalties, raw water hazards, rain-drinking dynamics & custom item support.</li>
+        <li><strong>Integration:</strong> Seamless PlaceholderAPI support, custom sound/particle action triggers, and modular configuration.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 <div align="center">
