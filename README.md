@@ -14,38 +14,13 @@
 
 ---
 
-### ⚡ The 3 Core Pillars
+### ⚡ Core Pillars
 
-<table>
-  <tr>
-    <td width="33%" align="center"><h3>🎮 Game Director</h3></td>
-    <td width="33%" align="center"><h3>☕ Java Developer</h3></td>
-    <td width="33%" align="center"><h3>🛡️ QA Specialist</h3></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><strong>Gameplay Loops:</strong> Long-term player progression & retention systems.</li>
-        <li><strong>Economy Architecture:</strong> Closed-loop, anti-inflation sinks & sources.</li>
-        <li><strong>Art & Presentation:</strong> Blockbench 3D rigging, ModelEngine VFX & strict GUI/Lore typography.</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li><strong>Server Internals:</strong> High-concurrency Paper, Purpur & Spigot NMS architecture.</li>
-        <li><strong>Network & Packets:</strong> Netty pipeline & custom packet handling.</li>
-        <li><strong>High-Performance Data:</strong> Async pipelines, Redis caching & SQL persistence.</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li><strong>Performance Profiling:</strong> Spark & async-profiler (Tick & Memory latency).</li>
-        <li><strong>Exploit Prevention:</strong> Dupe hunting, race conditions & economy auditing.</li>
-        <li><strong>Release Governance:</strong> Regression testing & zero-downtime hot-reloading.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Pillar | Scope | Core Focus & Deliverables |
+| :--- | :--- | :--- |
+| 🎮 **Game Director** | **Design & Experience** | Closed-loop economy balance, progression loops, Blockbench 3D & VFX direction |
+| ☕ **Java Developer** | **Server Engine** | Paper/Purpur NMS internals, packet-level Netty pipelines, async data persistence |
+| 🛡️ **QA Specialist** | **Reliability & Audit** | Spark latency profiling, dupe & exploit prevention, high-concurrency stress testing |
 
 ---
 
